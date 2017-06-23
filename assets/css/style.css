@@ -65,6 +65,26 @@ body{
 	padding:0px 20px 10px 20px;
 }
 
+.about-me{
+	color:#4aaaa5;
+	text-align:center;
+}
+
+.dogs{
+	max-width:300px;
+	max-height:300px;
+	height:auto;
+	width:auto;
+	float:left;
+	padding-top:10px;
+	padding-right:20px;
+}
+
+p{
+	color:#666;
+	font-size:18px;
+}
+
 form{
 	font-size:18px;
 	color:#ddd;
@@ -95,26 +115,6 @@ textarea{
 	font-size:18px;
 }
 
-.about-me{
-	color:#4aaaa5;
-	text-align:center;
-}
-.dogs{
-	max-width:300px;
-	max-height:300px;
-	height:auto;
-	width:auto;
-	float:left;
-	padding-top:10px;
-	padding-right:20px;
-}
-
-.contact{
-	color:#4aaaa5;
-	text-align:left;
-	padding-top:10px;
-	padding-left:10px;
-}
 .social-box{
 	background-color:white;
 	height:200px;
@@ -128,10 +128,11 @@ textarea{
 	padding:0px 20px 10px 20px;
 }
 
-p{
-	color:#666;
-	font-size:18px;
-
+.contact{
+	color:#4aaaa5;
+	text-align:left;
+	padding-top:10px;
+	padding-left:10px;
 }
 
 img{
